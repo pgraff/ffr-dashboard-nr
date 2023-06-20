@@ -1,0 +1,23 @@
+{
+    "name": "node-red-project",
+    "description": "A Node-RED Project",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "node-red-contrib-buffer-array": "~1.1.0",
+        "node-red-contrib-component-dashboard": "~0.0.4",
+        "node-red-contrib-state-machine": "~1.2.0",
+        "node-red-contrib-ui-led": "~0.4.11",
+        "node-red-contrib-ui-multistate-switch": "~1.2.3",
+        "node-red-contrib-ui-state-trail": "~1.0.1",
+        "node-red-contrib-ui-statechart": "~0.2.0",
+        "node-red-contrib-ui-sys-loft": "~0.1.1",
+        "node-red-contrib-ui-timeline": "~1.0.2",
+        "node-red-contrib-usb": "~1.0.0",
+        "node-red-dashboard": "^3.5.0",
+        "node-red-node-serialport": "~1.0.4",
+        "node-red-node-ui-iframe": "~0.2.1",
+        "node-red-node-ui-list": "~0.3.6",
+        "node-red-node-ui-table": "~0.4.3"
+    }
+}
